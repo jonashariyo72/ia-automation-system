@@ -1,4 +1,4 @@
-# 🚀 Ecosistema de Automatización de Contenidos B2B (AI + HITL)
+# 🚀 Entrega Final: Ecosistema de Automatización IA Autónomo para Negocios
 
 **Alumno:** Jonás Hariyo
 **Curso:** AI Automation - CoderHouse  
@@ -20,9 +20,9 @@ Ecosistema de automatización de extremo a extremo que resuelve el proceso de ge
 
 ## 🔗 Enlaces Obligatorios de la Entrega
 
-* 📊 **Dashboard de Control (Shared View Público):** [Ver Panel de KPIs en Airtable](PEGA_AQUI_TU_LINK_DE_AIRTABLE)
-* 🗄️ **Base de Datos (Lectura Pública):** [Ver Base Airtable](PEGA_AQUI_EL_LINK_DE_TU_BASE)
-* 🎥 **Video Demo (3 min):** [Ver Video en Loom/YouTube](PEGA_AQUI_EL_LINK_DEL_VIDEO)
+* 📊 **Dashboard de Control (Shared View Público):** [Ver Panel de KPIs en Airtable]((https://airtable.com/appRIedv3x1HkqOdA/shrdZbvjUyVDXn1QX))
+* 🗄️ **Base de Datos (Lectura Pública):** [Ver Base Airtable](((https://airtable.com/appRIedv3x1HkqOdA/shrdZbvjUyVDXn1QX)))
+* 🎥 **Video Demo (3 min):** [Ver Video en Loom/YouTube]((https://www.youtube.com/watch?v=ZQzcLBjYAO4))
 
 ---
 
@@ -36,4 +36,4 @@ Ecosistema de automatización de extremo a extremo que resuelve el proceso de ge
 ## 📂 Archivos Adjuntos en el Repositorio
 - `Entrega_Final_AI_Automation_OFICIAL.pdf`: Documentación técnica completa respondiendo a los 5 criterios de la rúbrica.
 - `blueprint.json`: Flujo exportado de Make listo para importar.
-- `/img`: Capturas de pantalla con evidencias del testeo en vivo.
+- `video_demo.txt`: Video con evidencia del flujo de trabajo
